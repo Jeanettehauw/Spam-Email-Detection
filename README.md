@@ -53,10 +53,10 @@ The model is able to classify emails as **Spam** or **Ham (Not Spam)** with high
 ---
 
 ## 📂 Project Structure  
-<pre>'''spam-detection/
+<pre>spam-detection/
 │── data/ # Dataset
 │── notebook.ipynb # Jupyter notebook with training & evaluation
-│── README.md # Documentation'''</pre>
+│── README.md # Documentation</pre>
 
 ## ✨ Conclusion  
 This project shows that **TF-IDF + Naive Bayes** is a simple yet powerful approach for sp
