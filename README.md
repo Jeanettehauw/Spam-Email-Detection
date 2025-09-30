@@ -59,4 +59,4 @@ The model is able to classify emails as **Spam** or **Ham (Not Spam)** with high
 │── README.md # Documentation</pre>
 
 ## ✨ Conclusion  
-This project shows that **TF-IDF + Naive Bayes** is a simple yet powerful approach for sp
+This project shows that **TF-IDF + Naive Bayes** is a simple yet powerful approach for spam detection, achieving **97.57% accuracy** with lightweight computation.
